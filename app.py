@@ -5,7 +5,7 @@ import joblib
 st.set_page_config(page_title="Laptop Price Predictor", layout="centered")
 
 # Load the trained model
-model = joblib.load('../model/laptop_price_model.pkl')
+model = joblib.load('model/laptop_price_model.pkl')
 
 st.title('💻 Laptop Price Predictor')
 st.markdown('Enter the specifications of the laptop to predict its price.')
