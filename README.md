@@ -55,5 +55,6 @@ This project is a complete workflow for cleaning, analyzing, and predicting lapt
 
 Github Repo URL - https://github.com/ekeminijoshua11-lang/new-group-laptop-prediction
 ## Credits
-Developed by 23/EG/CO/089, 23/EG/CO/054,
+Developed by 23/EG/CO/089, 23/EG/CO/054, 23/EG/CO/105,  23/EG/CO/013,  23/EG/CO/058, 22/EG/CO/1776,  23/EG/CO/111, 22/EG/CO/1798,  23/EG/CO/132,  23/EG/CO/059
+
 
