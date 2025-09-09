@@ -44,7 +44,7 @@ This project is a complete workflow for cleaning, analyzing, and predicting lapt
    ```
 2. Start the Streamlit app:
    ```bash
-   streamlit run streamlit/app.py
+   streamlit run app.py
    ```
 3. Open the app in your browser and enter laptop specifications to get price predictions.
 
@@ -55,4 +55,4 @@ This project is a complete workflow for cleaning, analyzing, and predicting lapt
 
 Github Repo URL - https://github.com/ekeminijoshua11-lang/new-group-laptop-prediction
 ## Credits
-Developed by [Your Name].
+Developed by 23/EG/CO/089, 23/EG/CO/054,
